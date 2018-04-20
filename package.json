@@ -1,0 +1,7 @@
+{
+  "name": "apollo-graphql-ws-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "anfa <anfa@splitmedialabs.com>",
+  "license": "MIT"
+}
